@@ -1,2 +1,2 @@
 # DL-ML
-Python stuff
+Solving a simple classification problem with Python
